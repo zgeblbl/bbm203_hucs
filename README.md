@@ -2,5 +2,5 @@
 Hacettepe University BBM 203 - Data Structures Lab course:
 
 
--[Assignments][(https://github.com/zgeblbl/bbm203_hucs/tree/main/Assignments)
+-[Assignments](https://github.com/zgeblbl/bbm203_hucs/tree/main/Assignments)
 
